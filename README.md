@@ -3,8 +3,6 @@
 A link to what inspired me to create this:
 - https://itnext.io/htmx-made-me-like-the-web-again-aee0862a62bb
 
-Teach me how to use HTMX. What are all the hx- hooks what do they do and how are they used.
-
 HTMX is a powerful library that allows you to make your web applications more dynamic by using HTML attributes to handle AJAX, CSS transitions, and more, without needing to write a lot of JavaScript. Below is an overview of the common `hx-` attributes (hooks) provided by HTMX and their functionalities:
 
 ### Common `hx-` Hooks
